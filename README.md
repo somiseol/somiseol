@@ -1,8 +1,10 @@
-Currently in my Software Development training arc at *Minneapolis Community Technical College*
+currently in my software developer training (& python tutoring) arc at minneapolis community technical college
 
-Email me at: [somi.seol@proton.me](mailto:somi.seol@proton.me "my email")
+email me at: [somi.seol@proton.me](mailto:somi.seol@proton.me "my email")
 
-[LinkedIn](https://www.linkedin.com/in/somi-seol-aa6b09321/ "willing to work for money")
+[linkedin](https://www.linkedin.com/in/somi-seol-aa6b09321/ "willing to work for money")
+
+
 <!--
 **somiseol/somiseol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
