@@ -1,4 +1,5 @@
 Currently in my Software Development training arc at *Minneapolis Community Technical College*
+
 Email me at: [somi.seol@proton.me](mailto:somi.seol@proton.me "my email")
 <!--
 **somiseol/somiseol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
