@@ -2,7 +2,7 @@ currently in my software developer training (& python tutoring) arc at minneapol
 
 email me at: [somi.seol@proton.me](mailto:somi.seol@proton.me "my email")
 
-[linkedin](https://www.linkedin.com/in/somi-seol-aa6b09321/ "willing to work for money")
+gimme a job me at: [linkedin](https://www.linkedin.com/in/somi-seol-aa6b09321/ "willing to work for money")
 
 
 <!--
