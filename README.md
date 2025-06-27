@@ -4,7 +4,7 @@ email me at: [somi.seol@proton.me](mailto:somi.seol@proton.me "my email")
 
 gimme a job me at: [linkedin](https://www.linkedin.com/in/somi-seol-aa6b09321/ "willing to work for money")
 
-
+some of my other stuff: https://github.com/somi-seol
 <!--
 **somiseol/somiseol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
