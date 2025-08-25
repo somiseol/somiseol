@@ -1,4 +1,4 @@
-currently in my software developer training (& python tutoring) arc at minneapolis community technical college
+currently in my software developer training arc at minneapolis community technical college
 
 email me at: [somi.seol@proton.me](mailto:somi.seol@proton.me "my email")
 
